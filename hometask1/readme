@@ -1,0 +1,5 @@
+vagrant up
+vagrant halt
+vagrant destroy
+ssh
+ss -tuln
